@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4fujA4qZLwMILTs10qgJj3+Xh8Wo1OzAFZMKN2Ies3XsLqsTi1nRorSKo9JCmm3UNKq837unERWNTi/VcwtZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Braden MacBeth\\Glint\\Glint.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Braden MacBeth\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
